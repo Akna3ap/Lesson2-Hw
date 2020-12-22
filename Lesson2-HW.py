@@ -1,3 +1,5 @@
+Type = "4-Digit Calculator"
+
 def calculate():
     operation = input('''Введите математический знак
 + для сложения чисел
